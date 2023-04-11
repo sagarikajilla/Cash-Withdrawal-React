@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.bg {
+  height: 100vh;
+  font-family: 'Roboto';
+  padding: 50px;
+  text-align: center;
+}
+.card {
+  background-color: #150b3e;
+  border-radius: 10px;
+  padding: 20px;
+}
+.icon {
+  color: #7c3aed;
+  background-color: #c7d2fe;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+  margin-right: 15px;
+  padding: 17px;
+}
+.heading {
+  color: #d4d2db;
+  font-size: 20px;
+  padding-top: 11px;
+}
+.head-cont {
+  display: flex;
+  flex-direction: row;
+}
+.middle-cont {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.middle-heading {
+  color: #382f5a;
+  font-size: 20px;
+}
+.money {
+  font-size: 30px;
+  color: #d4d2db;
+}
+.rupees {
+  color: #382f5a;
+  font-size: 15px;
+}
+.with {
+  color: #d4d2db;
+  font-size: 20px;
+}
+.desc {
+  font-size: 20px;
+  color: #382f5a;
+}

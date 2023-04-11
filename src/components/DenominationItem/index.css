@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.button {
+  background-color: #585076;
+  border-radius: 8px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #c4c4c4;
+  color: #d4d2db;
+  height: 36px;
+  width: 138px;
+  margin-top: 15px;
+}
+.list-cont {
+  list-style-type: none;
+}
